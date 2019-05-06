@@ -1,0 +1,30 @@
+6 27
+2 25
+3 25
+w w w w w w
+w g r g r w
+w g r g r w
+w g r g r w
+w g r g r w
+w g r g r w
+w g r g r w
+w g r g r w
+w g r g r w
+w g r g r w
+w g r g r w
+w g r g r w
+w g r g r w
+w g r g r w
+w g r g r w
+w g r g r w
+w g r g r w
+w g r g r w
+w g r g r w
+w g r g r w
+w g r g r w
+w g r g r w
+w g r g r w
+w g r g r w
+w g r g r w
+w g r g r w
+w w w w w w
